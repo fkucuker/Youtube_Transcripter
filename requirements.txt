@@ -1,0 +1,6 @@
+whisper
+pytube
+ffmpeg-python
+youtube-transcript-api
+tqdm
+google-api-python-client
