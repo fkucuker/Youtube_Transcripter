@@ -2,6 +2,10 @@
 
 This project downloads video transcripts from YouTube playlists and organizes them into a structured folder system. Each playlist is saved as a separate folder, and each video has its transcript stored as a `.txt` file. The transcripts do not include timestamps and are named after the video title and upload date.
 
+
+![YouTube Playlist Transcript Downloader - visual selection](https://github.com/user-attachments/assets/dec5b8f1-850f-459f-bfc2-c02f2674d682)
+
+
 ---
 
 ## Features
